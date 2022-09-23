@@ -54,6 +54,9 @@ Or if you just need general debugging/troubleshooting help with something tech-r
       - Next.js (SSR)
     - PostCSS (CSS automation plugins, Sass support)
   - Back-End
+    - Frameworks
+      - Spring Boot
+      - Laravel (with Composer dependency manager)
     - BaaS
       - Directus (SQL, REST, GraphQL, headless CMS, auth)
     - ORMs
