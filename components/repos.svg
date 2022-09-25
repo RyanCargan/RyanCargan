@@ -7,16 +7,20 @@
                 animation: mymove 2s infinite;
             }
 
+            h1:hover {
+                color: white;
+            }
+
             @keyframes mymove {
                 from {
                     color: orange;
                 }
                 to {
-                    color: yellow;
+                    color: blue;
                 }
             }
             </style>
-            <h1>Test component!</h1>
+            <h1>Repositories</h1>
         </div>
     </foreignObject>
 </svg>
