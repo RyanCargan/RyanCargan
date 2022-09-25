@@ -29,7 +29,7 @@ Acive stuff is listed here.
     <img src="components/repos.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
 
-<div style="color: yellow;">
+<div style="background-color: yellow;">
   <ul>[crud-app](https://github.com/RyanCargan/crud-app) - CRUD application for programming demo.</ul>
   <ul>[monorepo](https://github.com/RyanCargan/monorepo) - Dumping ground for miscellaneous personal work.</ul>
   <ul>[nixos-desktop-config](https://github.com/RyanCargan/nixos-desktop-config) - Configuration files for NixOS installation on local machine.</ul>
