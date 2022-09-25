@@ -7,6 +7,10 @@
                 animation: mymove 3s infinite;
             }
 
+            a {
+                color: yellow;
+            }
+
             h1:hover {
                 color: white;
             }
