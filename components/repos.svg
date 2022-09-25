@@ -4,7 +4,7 @@
             <style>
             h1 {
                 color: orange;
-                animation: mymove 2s infinite;
+                animation: mymove 3s infinite;
             }
 
             h1:hover {
@@ -12,11 +12,14 @@
             }
 
             @keyframes mymove {
-                from {
+                0% {
                     color: orange;
                 }
-                to {
+                50% {
                     color: blue;
+                }
+                100% {
+                    color: orange;
                 }
             }
             </style>
