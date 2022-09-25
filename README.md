@@ -25,9 +25,9 @@ Mostly full-stack web projects that touch on different parts of the tech stack f
 My repos have become a bit polluted with forks I plan to customize later but haven't gotten around to, among other things 😅
 Acive stuff is listed here.
 
-<div align="center">
+<!-- <div align="center">
     <img src="components/repos.svg" width="400" height="400" alt="css-in-readme">
-</div>
+</div> -->
 
 - [crud-app](https://github.com/RyanCargan/crud-app) - CRUD application for programming demo.
 - [monorepo](https://github.com/RyanCargan/monorepo) - Dumping ground for miscellaneous personal work.
