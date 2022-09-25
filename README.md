@@ -29,13 +29,13 @@ Acive stuff is listed here.
     <img src="components/repos.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
 
-<div class="card" markdown="1">
+<span style="display:block" class="card">
   - [crud-app](https://github.com/RyanCargan/crud-app) - CRUD application for programming demo.
   - [monorepo](https://github.com/RyanCargan/monorepo) - Dumping ground for miscellaneous personal work.
   - [nixos-desktop-config](https://github.com/RyanCargan/nixos-desktop-config) - Configuration files for NixOS installation on local machine.
   - [nixos-server-config](https://github.com/RyanCargan/nixos-server-config) - Configuration files for NixOS installation on headless remote machine.
   - [deployment-utils](https://github.com/RyanCargan/deployment-utils) - Stuff to help with deploying current apps via GitHub actions.
-</div>
+</span>
 
 ## 💬 Stuff You Can Ask Me About
 
